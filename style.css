@@ -58,7 +58,7 @@ main-nav a:hover{
     margin: 10px 0 42px;
 }
 #home{
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(./images/main-bg.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
